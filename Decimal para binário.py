@@ -58,5 +58,4 @@ def main():
 
     print("".join(str(x) for x in seq))
 
-
 main()
